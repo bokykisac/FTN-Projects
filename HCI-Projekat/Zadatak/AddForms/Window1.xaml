@@ -1,0 +1,62 @@
+﻿<Window x:Class="Zadatak.AddForms.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadatak.AddForms"
+        mc:Ignorable="d"
+        Title="Dodaavanje novog lokala" Height="450" Width="450" WindowStyle="ToolWindow">
+    <DockPanel>
+        <Grid DockPanel.Dock="Top" Margin="0,0,0,25">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Content="Oznaka"></Label>
+            <TextBox Grid.Row="0" Grid.Column="1"></TextBox>
+            <Label Grid.Row="1" Grid.Column="0" Content="Ime"></Label>
+            <TextBox Grid.Row="1" Grid.Column="1"></TextBox>
+            <Label Grid.Row="2" Grid.Column="0" Content="Opis"></Label>
+            <TextBox Grid.Row="2" Grid.Column="1"></TextBox>
+            <Label Grid.Row="3" Grid.Column="0" Content="Tip"></Label>
+            <TextBox Grid.Row="3" Grid.Column="1"></TextBox>
+            <Label Grid.Row="4" Grid.Column="0" Content="Sluzenje alkohola:"></Label>
+            <ComboBox Grid.Row="4" Grid.Column="1"></ComboBox>
+            <Label Grid.Row="5" Grid.Column="0" Content="Ikonica"></Label>
+            <TextBox Grid.Row="5" Grid.Column="1"></TextBox>
+            <Label Grid.Row="6" Grid.Column="0" Content="Dostupan za hendikepirane"></Label>
+            <CheckBox Grid.Row="6" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+            <Label Grid.Row="7" Grid.Column="0" Content="Kategorija cene"></Label>
+            <ComboBox Grid.Row="7" Grid.Column="1"></ComboBox>
+            <Label Grid.Row="8" Grid.Column="0" Content="Kapacitet"></Label>
+            <TextBox Grid.Row="8" Grid.Column="1"></TextBox>
+            <Label Grid.Row="9" Grid.Column="0" Content="Datum otvaranja"></Label>
+            <DatePicker Grid.Row="9" Grid.Column="1"></DatePicker>
+        </Grid>
+
+        <Grid DockPanel.Dock="Bottom" Margin="0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right">Potvrdi</Button>
+            <Button Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right">Odustani</Button>
+        </Grid>
+        
+    </DockPanel>
+</Window>

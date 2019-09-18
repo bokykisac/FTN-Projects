@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<script src="jquery-3.3.1.min.js" type="text/javascript"></script>
+<script src="login.js" type="text/javascript"></script>
+<link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="Bootstrap/js/bootstrap.min.js"></script>
+
+<title>Webshop</title>
+
+<style>
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0492ff;
+  height: 100vh;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<div id="login">
+        <h3 class="text-center text-white pt-5">Webshop</h3>
+        <div class="container">
+            <div id="login-row" class="row justify-content-center align-items-center">
+                <div id="login-column" class="col-md-6">
+                    <div id="login-box" class="col-md-12">
+                        <form id="login-form" class="form" action="" method="post">
+                            <h3 class="text-center text-primary">Login</h3>
+                            <div class="form-group">
+                                <label for="username" class="text-primary">Korisnicko ime:</label><br>
+                                <input type="text" name="txtusername" id="username" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label for="password" class="text-primary">Lozinka:</label><br>
+                                <input type="text" name="txtpassword" id="password" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label for="remember-me" class="text-info"><a href="register.html">Registruj se</a></label><br>
+                                <input type="submit" name="submit" class="btn btn-primary btn-md" value="Uloguj se">
+                                
+                            </div>
+                            <div id="register-link" class="text-right">
+                                <a href="webshop.html" class="text-primary">Nastavi na webshop</a>
+                                <p id="error" align="center" class="text-right" style="color:red;"></p>
+                            </div>
+                            
+                        </form>
+                        
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--  <form id="loginForm">
+	<table>
+		<tr>
+			<td>Korisnicko ime:</td>
+			<td><input type="text" name="txtusername"></td>
+		</tr>
+		<tr>
+			<td>Lozinka: </td>
+			<td><input type="password" name="txtpassword"></td>
+		</tr>
+		<tr>
+			<td><input type="submit" value="Login"></td>
+		</tr>			
+	</table>
+</form>
+
+
+
+<br>
+<a href="register.html">Registruj se</a><br>
+<a href="webshop.html">Nastavi na webshop</a>
+
+-->
+
+
+
+</body>
+</html>

@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<script src="jquery-3.3.1.min.js" type="text/javascript"></script>
+<link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet"
+	type="text/css" />
+<script type="text/javascript" src="Bootstrap/js/bootstrap.min.js"></script>
+<link href="mycss.css" rel="stylesheet" type="text/css" />
+<script src="webshop.js"></script>
+
+<title>Webshop</title>
+
+<style>
+</style>
+
+</head>
+
+
+<body>
+
+	<div class="wrapper" style="width: 100%">
+		<!-- Sidebar -->
+		<nav id="sidebar">
+			<div class="sidebar-header">
+				<h3>Opcije</h3>
+			</div>
+			<div id="buyersidebar">
+				<ul class="list-unstyled components">
+				
+				<li><a href="#buyerAdsMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Oglasi</a>
+						<ul class="collapse list-unstyled" id="buyerAdsMenu">
+							<li><a href="#buyerAllAds" onclick="showAllAds()">Svi oglasi</a></li>
+							<li><a href="#buyerFavouriteAds" onclick="showFavouriteAds()">Omiljeni oglasi</a></li>
+							<li><a href="#buyerOnWayAds" onclick="showOrderedAds()">U realizaciji</a></li>
+							<li><a href="#buyerDeliveredAds" onclick="showDeliveredAds()">Dostavljeni oglasi</a></li>
+						</ul></li>
+				
+				
+					<li><a href="#buyerRecMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Recenzije</a>
+						<ul class="collapse list-unstyled" id="buyerRecMenu">
+							<li><a href="#createNewRecensions" onclick="showCreateRecension()">Dodavanje recenzije</a></li>
+							<li><a href="#myRecensions" onclick="showMyRecensions()">Moje recenzije</a></li>
+						</ul></li>
+						
+					<li><a href="#buyerMsgMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Poruke</a>
+						<ul class="collapse list-unstyled" id="buyerMsgMenu">
+							<li><a href="#outbox" id="clickOutboxMessageBuyer"
+								onclick="outboxClick()">Poslate poruke</a></li>
+							<li><a href="#inbox" id="clickInboxMessageBuyer"
+								onclick="inobxClick()">Primljene poruke</a></li>
+							<li><a href="#createMessage" id="clickSendMessageBuyer"
+								onclick="newMessageClick()">Posalji poruku</a></li>								
+						</ul></li>
+						
+						<li><a href="#buyerCategoriesMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Kategorije</a>
+						<ul class="collapse list-unstyled" id="buyerCategoriesMenu">							
+						</ul></li>
+						
+						<li><a href="#users" onclick="showUsers()">Korisnici</a></li>
+				</ul>
+			</div>
+
+			<div id="sellersidebar">
+				<ul class="list-unstyled components">
+					<li><a href="#sellerAdMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Oglasi</a>
+						<ul class="collapse list-unstyled" id="sellerAdMenu">
+							<li><a href="#sellerAllAds" onclick="showAllAds()">Svi oglasi</a></li>
+							<li><a href="#mojiOglasi" id="sellerAds" onclick="showSellerAds()">Moji oglasi</a></li>
+							<li><a href="#sCreateaD" id="sCreateAd">Dodaj oglas</a></li>
+						</ul></li>
+					<li><a href="#sellerMsgMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Poruke</a>
+						<ul class="collapse list-unstyled" id="sellerMsgMenu">
+							<li><a href="#outbox" id="clickOutboxMessageSeller"
+								onclick="outboxClick()">Poslate poruke</a></li>
+							<li><a href="#inbox" id="clickInboxMessageSeller"
+								onclick="inobxClick()">Primljene poruke</a></li>
+							<li><a href="#createMessage" id="clickSendMessageSeller"
+								onclick="newMessageClick()">Posalji poruku</a></li>
+						</ul></li>
+						
+						<li><a href="#sellerCategoriesMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Kategorije</a>
+						<ul class="collapse list-unstyled" id="sellerCategoriesMenu">							
+						</ul></li>
+						
+						<li><a href="#users" onclick="showUsers()">Korisnici</a></li>
+						
+				</ul>
+			</div>
+			<!--  ADMIN SIDE BAR -->
+			<div id="adminsidebar">
+				<ul class="list-unstyled components">
+					<li><a href="#adminAllAds" onclick="showAllAds()">Svi oglasi</a>
+				
+		
+					<li><a href="#adminMsgMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Poruke</a>
+						<ul class="collapse list-unstyled" id="adminMsgMenu">
+							<li><a href="#outbox" id="clickOutboxMessageAdmin"
+								onclick="outboxClick()">Poslate poruke</a></li>
+							<li><a href="#inbox" id="clickInboxMessageAdmin"
+								onclick="inobxClick()">Primljene poruke</a></li>
+							<li><a href="#createMessage" id="clickSendMessageAdmin"
+								onclick="newMessageClick()">Posalji poruku</a></li>
+						</ul></li>
+						
+					<li><a href="#" id="adminUserType" data-toggle="modal"
+						data-target="#exampleModal">Promeni tip korisnika</a></li>
+						
+					<li><a href="#adminCatMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Kategorije</a>
+						<ul class="collapse list-unstyled" id="adminCatMenu">
+							<li><a href="#" id="showCategories">Izmeni kategorije</a></li>
+							<li><a href="#" id="showAddCat">Dodaj kategoriju</a></li>
+							<li><a href="#adminCategoriesMenu" data-toggle="collapse"
+								aria-expanded="false" class="dropdown-toggle">Lista kategorija</a>
+								<ul class="collapse list-unstyled" id="adminCategoriesMenu">							
+								</ul></li>
+						</ul></li>
+						
+						<li><a href="#users" onclick="showUsers()">Korisnici</a></li>
+				</ul>
+			</div>
+			<!-- END ADMIN SIDEBAR -->
+
+			<div id="guestsidebar">
+				<ul class="list-unstyled components">
+					<li><a href="#guestCategoriesMenu" data-toggle="collapse"
+						aria-expanded="false" class="dropdown-toggle">Kategorije</a>
+						<ul class="collapse list-unstyled" id="guestCategoriesMenu">
+						</ul></li>
+						
+						<li><a href="#users" onclick="showUsers()">Korisnici</a></li>
+					<li>
+				</ul>
+			</div>		
+			
+			<!--  SEARCHBAR -->
+			
+			<div id="searchSidebar" hidden="true">
+				<div class="container">
+					<h4 style="margin:20px 0px">Pretraga oglasa</h4>
+					
+						<div class="form-group row">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Naziv:</label>
+								<div class="col-sm-10">
+      								<input type="text" class="form-control" id="searchName" placeholder="Naziv oglasa">
+      							</div>
+						</div>
+						
+						<div class="form-group row">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Cena:</label>
+								<div class="col-sm-5">
+      								<input type="text" class="form-control" id="serachMinPrice" placeholder="Min">
+      							</div>
+      							<div class="col-sm-5">
+      								<input type="text" class="form-control" id="searchMaxPrice" placeholder="Max">
+      							</div>
+						</div>
+						
+						<div class="form-group row">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Ocena:</label>
+								<div class="col-sm-5">
+      								<input type="text" class="form-control" id="serachMinReview" placeholder="Od">
+      							</div>
+      							<div class="col-sm-5">
+      								<input type="text" class="form-control" id="serachMaxReview" placeholder="Do">
+      							</div>
+						</div>
+						
+						<div class="form-group row">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Datum:</label>
+						</div>
+						
+						<div class="form-group row">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Od:</label>
+								<div class="col-sm-10">
+      								<input type="date" class="form-control" id="serachDateMin" placeholder="Naziv oglasa">
+      							</div>
+						</div>
+						
+						<div class="form-group row">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Do:</label>
+								<div class="col-sm-10">
+      								<input type="date" class="form-control" id="serachDateMax" placeholder="Naziv oglasa">
+      							</div>
+						</div>
+						
+						<div class="form-group row">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Grad:</label>
+								<div class="col-sm-10">
+      								<select class="form-control" id="searchCity">
+      									<option value="-1" disabled selected hidden="true">Izaberite grad</option>
+      								</select>
+      							</div>
+						</div>
+						
+						<div class="form-group row" id="searchByStatus">
+							<label for="searchName" class="col-sm-2" style="margin:7px 0px 0px 0px; padding-left:5px">Status:</label>
+								<div class="col-sm-10">
+      								<select class="form-control" id="searchStatus">
+      									<option value="-5" disabled selected hidden="true">Status</option>
+      									<option value="1">Dostavljeni</option>
+      									<option value="-1">Aktivni</option>
+      									<option value="0">U realizaciji</option>
+      								</select>
+      							</div>
+						</div>
+						
+						<button type="button" class="btn btn-secondary" style="float:right" onclick="searchAds()">Trazi</button>
+						
+				</div>
+			</div>					
+			
+			<!--  END SEARCHBAR -->
+			
+			
+
+		</nav>
+		<!-- Page Content -->
+
+		<!--  NAVBAR  -->
+		<div id="content" style="width: 100%">
+
+			<nav class="navbar navbar-expand navbar-light"
+				style="border-bottom: 3px solid #007bff; background: #e6e6e6">
+				<div class="container-fluid">
+
+					<button type="button" id="sidebarCollapse" class="btn btn-primary">
+						<i class="fas fa-align-left"></i> <span>Zatvori meni</span>
+					</button>
+
+					<a href="webshop.html" class="navbar-brand">Dobrodosli na
+						webshop!</a>
+
+					<table class="nav navbar-nav">
+						<tr>
+							<td><span id="accDislikes" class="accVotes"></span><span id="accLikes" class="accVotes"></span><img src="Images/account.png"
+								style="margin: 0px 7px 0px 0px"><label id="loggedUser"></label></td>
+						</tr>
+						<tr>
+							<td><a href="#odjava" id="logout" hidden="true"
+								class="btn btn-primary">Odjavi se</a> <a href="./login.html"
+								id="login" hidden="true" class="btn btn-primary">Uloguj se</a> <a
+								href="./register.html" id="register" hidden="true"
+								class="btn btn-primary">Registruj se</a></td>
+						</tr>
+					</table>
+
+				</div>
+			</nav>
+
+			<!-- END NAVBAR  -->
+
+			<!-- CHANGE USER MODAL DIV -->
+
+			<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+				aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title" id="exampleModalLabel">Promena tipa
+								korisnika</h5>
+							<button type="button" class="close" data-dismiss="modal"
+								aria-label="Close" onclick="closeUserType()">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body">
+
+							<div class="form-group row">
+								<label class="control-label col-sm-2" style="margin-top: 10px;">Korisnik:</label>
+								<div class="col-sm-10">
+									<select class="browser-default custom-select" id="selectUsers">
+										<option value="5" disabled selected hidden="true">Birajte
+											korisnika</option>
+									</select>
+								</div>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="radio"
+									name="inlineRadioOptions" hidden="true" id="inlineRadio1" value="option1">
+								<label class="form-check-label" for="inlineRadio1"></label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="radio"
+									name="inlineRadioOptions" id="inlineRadio2" value="option2">
+								<label class="form-check-label" for="inlineRadio2">Kupac</label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="radio"
+									name="inlineRadioOptions" id="inlineRadio3" value="option3">
+								<label class="form-check-label" for="inlineRadio3">Prodavac</label>
+							</div>
+
+
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-secondary"
+								data-dismiss="modal" onclick="closeUserType()">Close</button>
+							<button type="button" class="btn btn-primary"
+								onclick="roleChanged()">Save changes</button>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--  END CHANGE USER MODAL DIV -->
+
+			<!-- REPLY MESSAGE MODAL -->
+
+			<div class="modal fade" id="modalReplyMessage" tabindex="-1" role="dialog"
+				aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title" id="modalReplyHeader">Odgovor na poruku</h5>
+							<button type="button" class="close" data-dismiss="modal"
+								aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body">
+							<form>
+								<div class="form-group">
+									<label for="recipient-name" class="col-form-label">Recipient:</label>
+									<input type="text" class="form-control" id="modalReplyRecipient" disabled>
+								</div>
+								<div class="form-group">
+									<label for="message-text" class="col-form-label">Message:</label>
+									<textarea class="form-control" rows="5" id="modalReplyContent"></textarea>
+								</div>
+							</form>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-secondary"
+								data-dismiss="modal">Nazad</button>
+							<button type="button" class="btn btn-primary" id="modalReplySubmit">Odgovori</button>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--  END REPLY MESSAGE MODAL -->
+
+
+
+			<!--  CARD DECK DIV -->
+			
+			<div class="card-deck" id="adsItems" style="margin-top:15px;"></div>	
+		
+			<!--  END CARD DECK DIV -->
+			
+			
+			<!--  DETAILED AD -->
+			
+			<div class="container" id="detailedAd" align="center" style="margin:20px;" hidden="true"></div>
+			
+			<!-- END DETAILED ADD -->
+
+			<!-- ADD PRODUCT -->
+			<div class="container" id="addNewAd" hidden="true">
+				<h3 style="margin: 15px 0 25px 0px">Dodavanje novog oglasa</h3>
+				<form class="form-horizontal" id="submitAd">
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Ime:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="adName"
+								placeholder="Ime*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Cena:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="adPrice"
+								placeholder="Cena*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Grad:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="adCity"
+								placeholder="Grad*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Opis:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="adDesc"
+								placeholder="Opis*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Slika:</strong></label>
+						<div class="col-sm-10">
+							<div class="input-group">
+								<div class="custom-file">
+									<input type="file" class="custom-file-input"
+										id="inputGroupFile01" aria-describedby="inputGroupFileAddon01"
+										onchange="handleFiles()" accept="image/png, image/jpeg">
+									<label class="custom-file-label" for="inputGroupFile01"
+										id="imgName">Izaberite fajl...</label>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Submit</button>
+						</div>
+					</div>
+				</form>
+
+
+				
+			</div>
+			<!--  END ADD PRODUCT -->
+			
+			<!-- CHANGE PRODUCT -->
+			
+			
+			<div class="container" id="changeAd" hidden="true">
+				<h3 id="changeAdHeader" style="margin: 15px 0 25px 0px">Izmena oglasa</h3>
+				<form class="form-horizontal" id="submitChangeAd">
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Ime:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chAdName"
+								placeholder="Ime*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Cena:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chAdPrice"
+								placeholder="Cena*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Grad:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chAdCity"
+								placeholder="Grad*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Opis:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chAdDesc"
+								placeholder="Opis*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Slika:</strong></label>
+						<div class="col-sm-10">
+							<div class="input-group">
+								<div class="custom-file">
+									<input type="file" class="custom-file-input"
+										id="inputGroupFile02" aria-describedby="inputGroupFileAddon02"
+										onchange="handleFilesChanged()" accept="image/png, image/jpeg">
+									<label class="custom-file-label" for="inputGroupFile02"
+										id="chImgName">Izaberite fajl...</label>
+								</div>
+							</div>
+						</div>
+					</div>
+	
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Submit</button>
+						</div>
+					</div>
+				</form>			
+			</div>
+			
+			
+			
+			
+			<!--  END CHANGE PRODUCT -->
+
+			<!-- LIST CATEGORIES DIV -->
+			
+			<div class="card-group" id="categories" hidden="true"
+				style="margin: 25px"></div>
+				
+			<!-- END LIST CATEGORIES DIV -->
+
+			<!-- CREATE CATEGORY -->
+			<div class="container" id="createCategory" hidden="true"
+				style="max-width: 60%">
+				<h3 style="margin: 15px 0 25px 0px">Dodavanje nove kategorije</h3>
+				<form class="form-horizontal" id="submitCat">
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Ime:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="catName"
+								placeholder="Ime*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Opis:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="catDescription"
+								placeholder="Opis*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Oglasi:</strong></label>
+						<div class="col-sm-10">
+
+							<select class="selectpicker form-control" multiple
+								id="categoryAds">
+							</select>
+
+
+
+						</div>
+					</div>
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Dodaj</button>
+						</div>
+					</div>
+				</form>
+
+
+			</div>
+			<!-- END CREATE CATEGORY -->
+			
+			
+			<!-- CHANGE CATEGORY -->
+			
+			<div class="container" id="changeCategory" hidden="true"
+				style="max-width: 60%">
+				<h3 style="margin: 15px 0 25px 0px" id="catHeader">Izmena kategorije</h3>
+				<form class="form-horizontal" id="changeCat">
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Ime:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chCatName"
+								placeholder="Ime*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Opis:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chCatDescription"
+								placeholder="Opis*">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Oglasi:</strong></label>
+						<div class="col-sm-10">
+
+							<select class="selectpicker form-control" multiple
+								id="chCategoryAds">
+							</select>
+
+
+
+						</div>
+					</div>
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Izmeni</button>
+						</div>
+					</div>
+				</form>
+
+
+			</div>
+			
+
+			<!--  END CHANGE CATEGORY -->
+			
+			
+			<!-- CREATE RECENSION -->
+			
+			
+			<div class="container" id="createRecension" hidden="true"
+				style="max-width: 60%">
+				<h3 style="margin: 15px 0 25px 0px">Kreiraj novu recenziju</h3>
+
+				<form class="form-horizontal" id="formNewRecension">
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px;"><strong>Oglas:</strong></label>
+						<div class="col-sm-10">
+							<select class="browser-default custom-select"
+								id="selectRecAd">
+								<option value="-1" disabled selected hidden="true">Izaberite
+									oglas</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Recenzent:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" disabled class="form-control" id="recAutor"
+								placeholder="">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Naslov:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="recTitle"
+								placeholder="Naslov recenzije">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Sadrzaj:</strong></label>
+						<div class="col-sm-10">
+							<textarea rows="5" class="form-control" id="recContent"></textarea>
+						</div>
+					</div>
+					
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Slika:</strong></label>
+						<div class="col-sm-10">
+							<div class="input-group">
+								<div class="custom-file">
+									<input type="file" class="custom-file-input"
+										id="inputGroupFile03" aria-describedby="inputGroupFileAddon03"
+										onchange="handleFilesRecension()" accept="image/png, image/jpeg">
+									<label class="custom-file-label" for="inputGroupFile03"
+										id="recImgName">Izaberite fajl...</label>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="form-group row">
+						<div class="col-sm-12">
+							<input type="checkbox" class="form-check-input" id="recCorrect">
+							<label class="form-check-label" for="recCorrect">Opis oglasa tacan</label>
+						</div>
+					</div>
+					
+					<div class="form-group row">
+						<div class="col-sm-12">
+							<input type="checkbox" class="form-check-input" id="recDeal">	
+							<label class="form-check-label" for="recDeal">Ispostovan dogovor</label>					
+						</div>
+					</div>
+					
+					<div class="form-group row">
+						<div class="col-sm-12">
+							<input type="checkbox" class="form-check-input" id="recIncorrect">	
+							<label class="form-check-label" for="recIncorrect">Artikal ne odgovara opisu ili je prevara</label>					
+						</div>
+					</div>
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Posalji</button>
+						</div>
+					</div>
+
+				</form>
+			</div>
+			
+			<!-- END CREATE RECENSION -->
+			
+			<!-- CHANGE RECENSION -->
+			
+			<div class="container" id="changeRecension" hidden="true"
+				style="max-width: 60%">
+				<h3 id="chgRecHeader" style="margin: 15px 0 25px 0px">Izmeni recenziju</h3>
+
+				<form class="form-horizontal" id="formChangeRecension">
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px;"><strong>Oglas:</strong></label>
+						<div class="col-sm-10">
+							<select class="browser-default custom-select"
+								id="chgselectRecAd">
+								<option value="-1" disabled selected hidden="true">Izaberite
+									oglas</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Recenzent:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" disabled class="form-control" id="chgrecAutor"
+								placeholder="">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Naslov:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chgrecTitle"
+								placeholder="Naslov recenzije">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Sadrzaj:</strong></label>
+						<div class="col-sm-10">
+							<textarea rows="5" class="form-control" id="chgrecContent"></textarea>
+						</div>
+					</div>
+					
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Slika:</strong></label>
+						<div class="col-sm-10">
+							<div class="input-group">
+								<div class="custom-file">
+									<input type="file" class="custom-file-input"
+										id="inputGroupFile04" aria-describedby="inputGroupFileAddon04"
+										onchange="handleFilesChgRecension()" accept="image/png, image/jpeg">
+									<label class="custom-file-label" for="inputGroupFile04"
+										id="chgrecImgName">Izaberite fajl...</label>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="form-group row">
+						<div class="col-sm-12">
+							<input type="checkbox" class="form-check-input" id="chgrecCorrect">
+							<label class="form-check-label" for="chgrecCorrect">Opis oglasa tacan</label>
+						</div>
+					</div>
+					
+					<div class="form-group row">
+						<div class="col-sm-12">
+							<input type="checkbox" class="form-check-input" id="chgrecDeal">	
+							<label class="form-check-label" for="chgrecDeal">Ispostovan dogovor</label>					
+						</div>
+					</div>
+					
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Izmeni</button>
+						</div>
+					</div>
+
+				</form>
+			</div>
+			
+			
+			
+			
+			<!-- END CHANGE RECENSION -->
+			
+			
+			
+			<!-- RECENSION LIST -->
+			
+			<div class="container" id="divMyRecensions" hidden="true">
+				<h3 id="recensionsEmpty" align="center" style="margin: 10px"></h3>
+			</div>
+			
+			
+			<!-- END RECENSION LIST -->
+			
+			
+
+			<!-- CREATE MESSAGE -->
+			
+			<div class="container" id="createMessage" hidden="true"
+				style="max-width: 60%">
+				<h3 style="margin: 15px 0 25px 0px">Kreiraj novu poruku</h3>
+
+				<form class="form-horizontal" id="formNewMessage">
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px;"><strong>Primalac:</strong></label>
+						<div class="col-sm-10">
+							<select class="browser-default custom-select"
+								id="selectMsgReciver">
+								<option value="-1" disabled selected hidden="true">Izaberite
+									ime primaoca</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Naslov:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="msgTitle"
+								placeholder="Naslov poruke">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px;"><strong>Oglas:</strong></label>
+						<div class="col-sm-10">
+							<select class="browser-default custom-select" id="selectMsgAd">
+								<option value="-1" disabled selected hidden="true">Izaberite
+									ime oglasa</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Sadrzaj:</strong></label>
+						<div class="col-sm-10">
+							<textarea rows="5" class="form-control" id="msgContent"></textarea>
+						</div>
+					</div>
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Posalji</button>
+						</div>
+					</div>
+
+				</form>
+			</div>
+
+			<!-- END CREATE MESSAGE -->
+			
+			<!-- CHANGE MESSAGE -->
+			
+			
+			<div class="container" id="changeMessage" hidden="true"
+				style="max-width: 60%">
+				<h3 id="changeMessageHeader" style="margin: 15px 0 25px 0px">Izmena poruke</h3>
+
+				<form class="form-horizontal" id="formChangeMessage">
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px;"><strong>Primalac:</strong></label>
+						<div class="col-sm-10">
+							<select class="browser-default custom-select"
+								id="chSelectMsgReciver">
+								<option value="-1" disabled selected hidden="true">Izaberite
+									ime primaoca</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Naslov:</strong></label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="chMsgTitle"
+								placeholder="Naslov poruke">
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px;"><strong>Oglas:</strong></label>
+						<div class="col-sm-10">
+							<select class="browser-default custom-select" id="chSelectMsgAd">
+								<option value="-1" disabled selected hidden="true">Izaberite
+									ime oglasa</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<label class="control-label col-sm-2" style="margin-top: 10px"><strong>Sadrzaj:</strong></label>
+						<div class="col-sm-10">
+							<textarea rows="5" class="form-control" id="chMsgContent"></textarea>
+						</div>
+					</div>
+
+					<div class="form-group row" style="float: right">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button type="submit" class="btn btn-primary"
+								style="margin: 10px 0px">Izmeni</button>
+						</div>
+					</div>
+
+				</form>
+			</div>
+			
+			
+			
+			
+			<!-- END CHANGE MESSAGE -->
+			
+
+			<!-- MESSAGE INBOX -->
+			<div class="container" id="divMsgInbox" hidden="true">
+				<h3 id="msgInboxEmpty" align="center" style="margin: 10px"></h3>
+			</div>
+
+			<!-- END MESSAGE INBOX -->
+
+			<!-- MESSAGE OUTBOX -->
+
+			<div class="container" id="divMsgOutbox" hidden="true">
+				<h3 id="msgOutboxEmpty" align="center" style="margin: 10px"></h3>
+			</div>
+			
+			<!-- END MESSAGE OUTBOX -->
+			
+			
+			<!-- USERES -->
+			
+			<div class="container" id="usersDiv" hidden="true"
+				style="max-width: 100%" align="center">
+				<h3 style="margin: 15px 0 25px 0px">Korisnici</h3>
+
+				<form class="form-horizontal" id="formUsers">
+
+					<div class="form-group row" style="max-width: 80%">
+						<input class="control-label col-sm-4" type="text" id="seearchUserName" style="margin:0px 5px;" placeholder="Ime korisnika">
+						<input class="control-label col-sm-4" type="text" id="seearchUserCity" style="margin:0px 5px;" placeholder="Grad">
+						<input class="btn btn-primary col-sm-2" type="submit"  value="Trazi" style="margin:0px 5px;" placeholder="Grad">
+					</div>
+					
+					<div style="margin-top:60px; max-width:90%">
+						<table id="userTable" class="table table-striped">
+							<thead class="thead-dark">
+								<tr>
+									<th scope="col">Ime</th>
+									<th scope="col">Prezime</th>
+									<th scope="col">Telefon</th>
+									<th scope="col">Grad</th>
+									<th scope="col">Mail</th>
+									<th scope="col">Datum rodjenja</th>
+								</tr>
+							</thead>
+							<tbody id="userTableBody">
+							</tbody>			
+						</table>
+					</div>
+					
+
+				</form>
+			</div>
+			
+			
+			<!--  END USERS -->
+
+		</div>
+	</div>
+
+</body>
+</html>

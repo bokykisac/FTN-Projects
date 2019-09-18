@@ -1,0 +1,374 @@
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\MainWindow.g.cs
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\App.g.cs
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\MainWindow.baml
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak.g.resources
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Login\lgnWindow.baml
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+D:\FTN\iii god\HCI\Predmetni zadatak\Zadatak\Zadatak\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\App.g.cs
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\App.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\Window1.g.cs
+C:\Users\Boris\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\Window1.baml
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.baml
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.baml
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.g.cs
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.baml
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\App.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.baml
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.baml
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.baml
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci - Copy\Zadatak-master\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\App.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniTip.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniTip.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Zadatak-master\Zadatak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\AddEtiketa.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\AddLokal.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\AddTip.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\IzmeniLokal.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\IzmeniTip.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\App.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\AddEtiketa.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\AddLokal.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\AddTip.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\IzmeniLokal.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\AddForms\IzmeniTip.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\Hci_Trenutno\Verzije\PokusajWrapa\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddEtiketa.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddLokal.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddTip.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniTip.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\App.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddEtiketa.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddLokal.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddTip.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniTip.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Boris\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniTip.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\App.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\AddEtiketa.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\AddLokal.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\AddTip.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\AddForms\IzmeniTip.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Boris\Desktop\Zadatak-master\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddEtiketa.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddLokal.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddTip.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniTip.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\lgnWindow.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\RegisterWindow.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\App.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.cache
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak_MarkupCompile.lref
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddEtiketa.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddLokal.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\AddTip.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniEtiketa.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniLokal.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\AddForms\IzmeniTip.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\lgnWindow.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Login\RegisterWindow.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\MainWindow.baml
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.g.resources
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.csproj.CopyComplete
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Dervy\Desktop\HCI-Projekat-master\Zadatak\obj\Debug\Zadatak.pdb
